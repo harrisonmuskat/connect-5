@@ -1,0 +1,3 @@
+class ColumnFullError < StandardError
+
+end
